@@ -1,1 +1,16 @@
 # CS-255
+
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+DriverPass is aiming to revamp the way we learn how to drive. In order to do that, they wanted a system developed that would provide several things for them. The system should allow users to create accounts, select one of the three available packages, and utilize the learning material and practice exams provided in those packages. In addition, users should be able to schedule physical driving practice with one of the instructors. 
+
+**What did you do particularly well?**
+In regard to our assignments, I feel like I understood what was being asked of me. As far as the system design is concerned, the groundwork for a system that meets or exceeds all of DriverPass's requirements was constructed. However, with anything, I also feel there were some areas that could be been done better. The PowerPoint, for example, could have been more polished. 
+
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+For only the two uploaded documents, my diagrams could have been cleaner. While all the required information is there, I should have taken more time to make the lines cleaner and easier to follow, as well as remove the graph lines to avoid any potential confusion. 
+
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
+The number one thing I thought of for the user was security. For any online system, user security should be a top priority. For DriverPass, I utilized a few features to improve user security. For starters, the ability for users to opt-in to two-factor authentication in the form of SMS messages. This isn't very difficult to implement and adds a layer of security for users who want the added protection. Another means of additional security comes in the form of account lockouts. If an incorrect password is entered three times, the account becomes locked, and an automated email is sent to the user's registered email address with instructions and a link to unlock the account. 
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+When I am first tasked with writing the code for software, I generally break it down into a series of tasks. From there, I assign each task with a timetable for completion. Each of these tasks is marked as complete as I work. I find that this helps keep me on track well while not forcing me to sit down for a long period of time so that I can take breaks and still meet all of the requirements with plenty of time to spare. I took this strategy and transitioned that to something similar but more fitting with design for this class. On the first day, I broke down the transcript for the interview with DriverPass. Next, I read the document templates provided and broke them down into a list of completable items with x items required each day. On the final day, I took time to read over my work and make any last-minute adjustments before submitting the work. This worked out well and is how I will continue to do things in the future. 
